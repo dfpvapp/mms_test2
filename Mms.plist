@@ -13,15 +13,29 @@
 					<key>url</key>
 					<string>https://github.com/dfpvapp/mms_test2/raw/master/Mms_Ceshi.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/dfpvapp/mms_test2/raw/master</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/dfpvapp/mms_test2/raw/master</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dfpv.mms</string>
+				<string>com.df.mms</string>
 				<key>bundle-version</key>
 				<string>2.38</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>Mms</string>
 			</dict>
