@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.df.mms</string>
+				<string>com.dfpv.mms</string>
 				<key>bundle-version</key>
 				<string>2.38</string>
 				<key>kind</key>
